@@ -22,5 +22,9 @@ html, body {
     color: #fff;
     text-align: center;
     font-size: 33px;
+
+    &.small {
+      font-size: 16px;
+    }
   }
 }
