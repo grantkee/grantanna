@@ -1,0 +1,31 @@
+/* line 4, app/assets/stylesheets/homepage.scss */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/* line 9, app/assets/stylesheets/homepage.scss */
+.container {
+  height: 100%;
+  width: 100%;
+  background: url("https://github.com/grantkee/grantanna/blob/main/app/assets/images/_LW20283.jpg?raw=true") no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* line 20, app/assets/stylesheets/homepage.scss */
+.container p {
+  margin: 0;
+  color: #fff;
+  text-align: center;
+  font-size: 33px;
+}
+
+/* line 26, app/assets/stylesheets/homepage.scss */
+.container p.small {
+  font-size: 16px;
+}
