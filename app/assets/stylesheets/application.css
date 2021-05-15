@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+ @font-face {
+  font-family: 'chinese rocks';
+    src: url('../fonts/chinese_rocks/chinese_rocks_rg-webfont.woff2') format('woff2'),
+         url('../fonts/chinese_rocks/chinese_rocks_rg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
