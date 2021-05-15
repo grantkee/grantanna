@@ -8,5 +8,8 @@ html, body {
 .container {
   height: 100%;
   width: 100%;
-  background: url();
+  background: url('https://github.com/grantkee/grantanna/blob/main/app/assets/images/main.jpeg?raw=true') no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-color: #000000;
 }
